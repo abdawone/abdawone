@@ -1,9 +1,8 @@
-### Hi there 👋
 <h1 align="left" id="abdawone-title">:wave: Hello there! I'm Abdourahmane (Abda) Wone</h1>
-<h3 align="left">I am an Odoo developer integrator </h3>
+<h3 align="left">I am an Odoo developer & integrator </h3>
 
 
-<a href="#suhailkakar-title">
+<a href="#abdawone-title">
   <img src="https://github-readme-stats.vercel.app/api?username=abdawone&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abda Wone" align="right" />
 </a>
 
